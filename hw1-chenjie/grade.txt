@@ -1,0 +1,5 @@
+All tests pass well done!
+
+I do think you could save yourself some effort (and clean things up) with some more methods. The HeapPage should be able to tell you whether it is full or not, for example.
+
+100 / 100
